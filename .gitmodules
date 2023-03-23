@@ -8,3 +8,8 @@
 	url = https://github.com/edoardobaldoni/agpris
 	shallow = true
 	registered = true
+[submodule "multilaterals"]
+	path = multilaterals
+	url = https://github.com/cran/multilaterals
+	shallow = true
+	registered = true
