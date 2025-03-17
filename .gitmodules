@@ -5,6 +5,3 @@
 [submodule "AGPRIS"]
 	path = AGPRIS
 	url = https://github.com/edoardobaldoni/agpris
-[submodule "multilaterals"]
-	path = multilaterals
-	url = https://github.com/cran/multilaterals
